@@ -1,1 +1,1 @@
-dekalion.github.io/Tween/vavela.html
+https://dekalion.github.io/Tween/vavela.html
